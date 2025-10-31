@@ -1,0 +1,1734 @@
+{
+  "claim": "Orsted generated 15.6 TWh of renewable energy from offshore wind in 2023 with certified green electricity",
+  "company": "Orsted",
+  "industry": "Energy",
+  "complexity_score": 0.1,
+  "workflow_path": "",
+  "evidence": [],
+  "confidence": 0.7000000000000001,
+  "risk_level": "MODERATE",
+  "agent_outputs": [
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "claim_extraction",
+      "output": {
+        "company": "Orsted",
+        "claims": [
+          {
+            "claim_id": 1,
+            "actor": "Orsted",
+            "claim_text": "Generated 15.6 TWh of renewable energy from offshore wind in 2023.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy generation",
+            "metric": "15.6 TWh",
+            "timeline": "2023",
+            "claim_type": "Achievement",
+            "specificity_score": 10
+          },
+          {
+            "claim_id": 2,
+            "actor": "Orsted",
+            "claim_text": "The renewable energy generated from offshore wind in 2023 is from certified green electricity.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy certification",
+            "metric": "Certified green electricity",
+            "timeline": "2023",
+            "claim_type": "Certification",
+            "specificity_score": 8
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "timestamp": "2025-10-31T22:17:08.946060",
+      "live_fetch": true
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "claim_extraction",
+      "output": {
+        "company": "Orsted",
+        "claims": [
+          {
+            "claim_id": 1,
+            "actor": "Orsted",
+            "claim_text": "Generated 15.6 TWh of renewable energy from offshore wind in 2023.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy generation",
+            "metric": "15.6 TWh",
+            "timeline": "2023",
+            "claim_type": "Achievement",
+            "specificity_score": 10
+          },
+          {
+            "claim_id": 2,
+            "actor": "Orsted",
+            "claim_text": "The renewable energy generated from offshore wind in 2023 is from certified green electricity.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy certification",
+            "metric": "Certified green electricity",
+            "timeline": "2023",
+            "claim_type": "Certification",
+            "specificity_score": 8
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "timestamp": "2025-10-31T22:17:08.946060",
+      "live_fetch": true
+    },
+    {
+      "agent": "risk_scoring",
+      "output": {
+        "risk_level": "MODERATE",
+        "confidence": 0.5
+      },
+      "risk_level": "MODERATE",
+      "confidence": 0.5,
+      "timestamp": "2025-10-31T22:17:08.950062"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "claim_extraction",
+      "output": {
+        "company": "Orsted",
+        "claims": [
+          {
+            "claim_id": 1,
+            "actor": "Orsted",
+            "claim_text": "Generated 15.6 TWh of renewable energy from offshore wind in 2023.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy generation",
+            "metric": "15.6 TWh",
+            "timeline": "2023",
+            "claim_type": "Achievement",
+            "specificity_score": 10
+          },
+          {
+            "claim_id": 2,
+            "actor": "Orsted",
+            "claim_text": "The renewable energy generated from offshore wind in 2023 is from certified green electricity.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy certification",
+            "metric": "Certified green electricity",
+            "timeline": "2023",
+            "claim_type": "Certification",
+            "specificity_score": 8
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "timestamp": "2025-10-31T22:17:08.946060",
+      "live_fetch": true
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "claim_extraction",
+      "output": {
+        "company": "Orsted",
+        "claims": [
+          {
+            "claim_id": 1,
+            "actor": "Orsted",
+            "claim_text": "Generated 15.6 TWh of renewable energy from offshore wind in 2023.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy generation",
+            "metric": "15.6 TWh",
+            "timeline": "2023",
+            "claim_type": "Achievement",
+            "specificity_score": 10
+          },
+          {
+            "claim_id": 2,
+            "actor": "Orsted",
+            "claim_text": "The renewable energy generated from offshore wind in 2023 is from certified green electricity.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy certification",
+            "metric": "Certified green electricity",
+            "timeline": "2023",
+            "claim_type": "Certification",
+            "specificity_score": 8
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "timestamp": "2025-10-31T22:17:08.946060",
+      "live_fetch": true
+    },
+    {
+      "agent": "risk_scoring",
+      "output": {
+        "risk_level": "MODERATE",
+        "confidence": 0.5
+      },
+      "risk_level": "MODERATE",
+      "confidence": 0.5,
+      "timestamp": "2025-10-31T22:17:08.950062"
+    },
+    {
+      "agent": "confidence_scoring",
+      "confidence": 0.7000000000000001,
+      "timestamp": "2025-10-31T22:17:08.952536"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "claim_extraction",
+      "output": {
+        "company": "Orsted",
+        "claims": [
+          {
+            "claim_id": 1,
+            "actor": "Orsted",
+            "claim_text": "Generated 15.6 TWh of renewable energy from offshore wind in 2023.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy generation",
+            "metric": "15.6 TWh",
+            "timeline": "2023",
+            "claim_type": "Achievement",
+            "specificity_score": 10
+          },
+          {
+            "claim_id": 2,
+            "actor": "Orsted",
+            "claim_text": "The renewable energy generated from offshore wind in 2023 is from certified green electricity.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy certification",
+            "metric": "Certified green electricity",
+            "timeline": "2023",
+            "claim_type": "Certification",
+            "specificity_score": 8
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "timestamp": "2025-10-31T22:17:08.946060",
+      "live_fetch": true
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "claim_extraction",
+      "output": {
+        "company": "Orsted",
+        "claims": [
+          {
+            "claim_id": 1,
+            "actor": "Orsted",
+            "claim_text": "Generated 15.6 TWh of renewable energy from offshore wind in 2023.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy generation",
+            "metric": "15.6 TWh",
+            "timeline": "2023",
+            "claim_type": "Achievement",
+            "specificity_score": 10
+          },
+          {
+            "claim_id": 2,
+            "actor": "Orsted",
+            "claim_text": "The renewable energy generated from offshore wind in 2023 is from certified green electricity.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy certification",
+            "metric": "Certified green electricity",
+            "timeline": "2023",
+            "claim_type": "Certification",
+            "specificity_score": 8
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "timestamp": "2025-10-31T22:17:08.946060",
+      "live_fetch": true
+    },
+    {
+      "agent": "risk_scoring",
+      "output": {
+        "risk_level": "MODERATE",
+        "confidence": 0.5
+      },
+      "risk_level": "MODERATE",
+      "confidence": 0.5,
+      "timestamp": "2025-10-31T22:17:08.950062"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "claim_extraction",
+      "output": {
+        "company": "Orsted",
+        "claims": [
+          {
+            "claim_id": 1,
+            "actor": "Orsted",
+            "claim_text": "Generated 15.6 TWh of renewable energy from offshore wind in 2023.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy generation",
+            "metric": "15.6 TWh",
+            "timeline": "2023",
+            "claim_type": "Achievement",
+            "specificity_score": 10
+          },
+          {
+            "claim_id": 2,
+            "actor": "Orsted",
+            "claim_text": "The renewable energy generated from offshore wind in 2023 is from certified green electricity.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy certification",
+            "metric": "Certified green electricity",
+            "timeline": "2023",
+            "claim_type": "Certification",
+            "specificity_score": 8
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "timestamp": "2025-10-31T22:17:08.946060",
+      "live_fetch": true
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "claim_extraction",
+      "output": {
+        "company": "Orsted",
+        "claims": [
+          {
+            "claim_id": 1,
+            "actor": "Orsted",
+            "claim_text": "Generated 15.6 TWh of renewable energy from offshore wind in 2023.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy generation",
+            "metric": "15.6 TWh",
+            "timeline": "2023",
+            "claim_type": "Achievement",
+            "specificity_score": 10
+          },
+          {
+            "claim_id": 2,
+            "actor": "Orsted",
+            "claim_text": "The renewable energy generated from offshore wind in 2023 is from certified green electricity.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy certification",
+            "metric": "Certified green electricity",
+            "timeline": "2023",
+            "claim_type": "Certification",
+            "specificity_score": 8
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "timestamp": "2025-10-31T22:17:08.946060",
+      "live_fetch": true
+    },
+    {
+      "agent": "risk_scoring",
+      "output": {
+        "risk_level": "MODERATE",
+        "confidence": 0.5
+      },
+      "risk_level": "MODERATE",
+      "confidence": 0.5,
+      "timestamp": "2025-10-31T22:17:08.950062"
+    },
+    {
+      "agent": "confidence_scoring",
+      "confidence": 0.7000000000000001,
+      "timestamp": "2025-10-31T22:17:08.952536"
+    },
+    {
+      "agent": "verdict_generation",
+      "output": {
+        "company": "Orsted",
+        "claim": "Orsted generated 15.6 TWh of renewable energy from offshore wind in 2023 with certified green electricity",
+        "risk_level": "MODERATE",
+        "confidence": 0.7000000000000001,
+        "evidence_count": 0,
+        "timestamp": "2025-10-31T22:17:08.954535",
+        "final_confidence": 0.7000000000000001
+      },
+      "confidence": 0.7000000000000001,
+      "timestamp": "2025-10-31T22:17:08.956534",
+      "intelligence_sources": []
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "claim_extraction",
+      "output": {
+        "company": "Orsted",
+        "claims": [
+          {
+            "claim_id": 1,
+            "actor": "Orsted",
+            "claim_text": "Generated 15.6 TWh of renewable energy from offshore wind in 2023.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy generation",
+            "metric": "15.6 TWh",
+            "timeline": "2023",
+            "claim_type": "Achievement",
+            "specificity_score": 10
+          },
+          {
+            "claim_id": 2,
+            "actor": "Orsted",
+            "claim_text": "The renewable energy generated from offshore wind in 2023 is from certified green electricity.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy certification",
+            "metric": "Certified green electricity",
+            "timeline": "2023",
+            "claim_type": "Certification",
+            "specificity_score": 8
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "timestamp": "2025-10-31T22:17:08.946060",
+      "live_fetch": true
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "claim_extraction",
+      "output": {
+        "company": "Orsted",
+        "claims": [
+          {
+            "claim_id": 1,
+            "actor": "Orsted",
+            "claim_text": "Generated 15.6 TWh of renewable energy from offshore wind in 2023.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy generation",
+            "metric": "15.6 TWh",
+            "timeline": "2023",
+            "claim_type": "Achievement",
+            "specificity_score": 10
+          },
+          {
+            "claim_id": 2,
+            "actor": "Orsted",
+            "claim_text": "The renewable energy generated from offshore wind in 2023 is from certified green electricity.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy certification",
+            "metric": "Certified green electricity",
+            "timeline": "2023",
+            "claim_type": "Certification",
+            "specificity_score": 8
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "timestamp": "2025-10-31T22:17:08.946060",
+      "live_fetch": true
+    },
+    {
+      "agent": "risk_scoring",
+      "output": {
+        "risk_level": "MODERATE",
+        "confidence": 0.5
+      },
+      "risk_level": "MODERATE",
+      "confidence": 0.5,
+      "timestamp": "2025-10-31T22:17:08.950062"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "claim_extraction",
+      "output": {
+        "company": "Orsted",
+        "claims": [
+          {
+            "claim_id": 1,
+            "actor": "Orsted",
+            "claim_text": "Generated 15.6 TWh of renewable energy from offshore wind in 2023.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy generation",
+            "metric": "15.6 TWh",
+            "timeline": "2023",
+            "claim_type": "Achievement",
+            "specificity_score": 10
+          },
+          {
+            "claim_id": 2,
+            "actor": "Orsted",
+            "claim_text": "The renewable energy generated from offshore wind in 2023 is from certified green electricity.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy certification",
+            "metric": "Certified green electricity",
+            "timeline": "2023",
+            "claim_type": "Certification",
+            "specificity_score": 8
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "timestamp": "2025-10-31T22:17:08.946060",
+      "live_fetch": true
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "claim_extraction",
+      "output": {
+        "company": "Orsted",
+        "claims": [
+          {
+            "claim_id": 1,
+            "actor": "Orsted",
+            "claim_text": "Generated 15.6 TWh of renewable energy from offshore wind in 2023.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy generation",
+            "metric": "15.6 TWh",
+            "timeline": "2023",
+            "claim_type": "Achievement",
+            "specificity_score": 10
+          },
+          {
+            "claim_id": 2,
+            "actor": "Orsted",
+            "claim_text": "The renewable energy generated from offshore wind in 2023 is from certified green electricity.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy certification",
+            "metric": "Certified green electricity",
+            "timeline": "2023",
+            "claim_type": "Certification",
+            "specificity_score": 8
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "timestamp": "2025-10-31T22:17:08.946060",
+      "live_fetch": true
+    },
+    {
+      "agent": "risk_scoring",
+      "output": {
+        "risk_level": "MODERATE",
+        "confidence": 0.5
+      },
+      "risk_level": "MODERATE",
+      "confidence": 0.5,
+      "timestamp": "2025-10-31T22:17:08.950062"
+    },
+    {
+      "agent": "confidence_scoring",
+      "confidence": 0.7000000000000001,
+      "timestamp": "2025-10-31T22:17:08.952536"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "claim_extraction",
+      "output": {
+        "company": "Orsted",
+        "claims": [
+          {
+            "claim_id": 1,
+            "actor": "Orsted",
+            "claim_text": "Generated 15.6 TWh of renewable energy from offshore wind in 2023.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy generation",
+            "metric": "15.6 TWh",
+            "timeline": "2023",
+            "claim_type": "Achievement",
+            "specificity_score": 10
+          },
+          {
+            "claim_id": 2,
+            "actor": "Orsted",
+            "claim_text": "The renewable energy generated from offshore wind in 2023 is from certified green electricity.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy certification",
+            "metric": "Certified green electricity",
+            "timeline": "2023",
+            "claim_type": "Certification",
+            "specificity_score": 8
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "timestamp": "2025-10-31T22:17:08.946060",
+      "live_fetch": true
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "claim_extraction",
+      "output": {
+        "company": "Orsted",
+        "claims": [
+          {
+            "claim_id": 1,
+            "actor": "Orsted",
+            "claim_text": "Generated 15.6 TWh of renewable energy from offshore wind in 2023.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy generation",
+            "metric": "15.6 TWh",
+            "timeline": "2023",
+            "claim_type": "Achievement",
+            "specificity_score": 10
+          },
+          {
+            "claim_id": 2,
+            "actor": "Orsted",
+            "claim_text": "The renewable energy generated from offshore wind in 2023 is from certified green electricity.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy certification",
+            "metric": "Certified green electricity",
+            "timeline": "2023",
+            "claim_type": "Certification",
+            "specificity_score": 8
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "timestamp": "2025-10-31T22:17:08.946060",
+      "live_fetch": true
+    },
+    {
+      "agent": "risk_scoring",
+      "output": {
+        "risk_level": "MODERATE",
+        "confidence": 0.5
+      },
+      "risk_level": "MODERATE",
+      "confidence": 0.5,
+      "timestamp": "2025-10-31T22:17:08.950062"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "claim_extraction",
+      "output": {
+        "company": "Orsted",
+        "claims": [
+          {
+            "claim_id": 1,
+            "actor": "Orsted",
+            "claim_text": "Generated 15.6 TWh of renewable energy from offshore wind in 2023.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy generation",
+            "metric": "15.6 TWh",
+            "timeline": "2023",
+            "claim_type": "Achievement",
+            "specificity_score": 10
+          },
+          {
+            "claim_id": 2,
+            "actor": "Orsted",
+            "claim_text": "The renewable energy generated from offshore wind in 2023 is from certified green electricity.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy certification",
+            "metric": "Certified green electricity",
+            "timeline": "2023",
+            "claim_type": "Certification",
+            "specificity_score": 8
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "timestamp": "2025-10-31T22:17:08.946060",
+      "live_fetch": true
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "claim_extraction",
+      "output": {
+        "company": "Orsted",
+        "claims": [
+          {
+            "claim_id": 1,
+            "actor": "Orsted",
+            "claim_text": "Generated 15.6 TWh of renewable energy from offshore wind in 2023.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy generation",
+            "metric": "15.6 TWh",
+            "timeline": "2023",
+            "claim_type": "Achievement",
+            "specificity_score": 10
+          },
+          {
+            "claim_id": 2,
+            "actor": "Orsted",
+            "claim_text": "The renewable energy generated from offshore wind in 2023 is from certified green electricity.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy certification",
+            "metric": "Certified green electricity",
+            "timeline": "2023",
+            "claim_type": "Certification",
+            "specificity_score": 8
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "timestamp": "2025-10-31T22:17:08.946060",
+      "live_fetch": true
+    },
+    {
+      "agent": "risk_scoring",
+      "output": {
+        "risk_level": "MODERATE",
+        "confidence": 0.5
+      },
+      "risk_level": "MODERATE",
+      "confidence": 0.5,
+      "timestamp": "2025-10-31T22:17:08.950062"
+    },
+    {
+      "agent": "confidence_scoring",
+      "confidence": 0.7000000000000001,
+      "timestamp": "2025-10-31T22:17:08.952536"
+    },
+    {
+      "agent": "verdict_generation",
+      "output": {
+        "company": "Orsted",
+        "claim": "Orsted generated 15.6 TWh of renewable energy from offshore wind in 2023 with certified green electricity",
+        "risk_level": "MODERATE",
+        "confidence": 0.7000000000000001,
+        "evidence_count": 0,
+        "timestamp": "2025-10-31T22:17:08.954535",
+        "final_confidence": 0.7000000000000001
+      },
+      "confidence": 0.7000000000000001,
+      "timestamp": "2025-10-31T22:17:08.956534",
+      "intelligence_sources": []
+    },
+    {
+      "agent": "professional_report_generation",
+      "confidence": 0.95,
+      "timestamp": "2025-10-31T22:17:08.959536"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "claim_extraction",
+      "output": {
+        "company": "Orsted",
+        "claims": [
+          {
+            "claim_id": 1,
+            "actor": "Orsted",
+            "claim_text": "Generated 15.6 TWh of renewable energy from offshore wind in 2023.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy generation",
+            "metric": "15.6 TWh",
+            "timeline": "2023",
+            "claim_type": "Achievement",
+            "specificity_score": 10
+          },
+          {
+            "claim_id": 2,
+            "actor": "Orsted",
+            "claim_text": "The renewable energy generated from offshore wind in 2023 is from certified green electricity.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy certification",
+            "metric": "Certified green electricity",
+            "timeline": "2023",
+            "claim_type": "Certification",
+            "specificity_score": 8
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "timestamp": "2025-10-31T22:17:08.946060",
+      "live_fetch": true
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "claim_extraction",
+      "output": {
+        "company": "Orsted",
+        "claims": [
+          {
+            "claim_id": 1,
+            "actor": "Orsted",
+            "claim_text": "Generated 15.6 TWh of renewable energy from offshore wind in 2023.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy generation",
+            "metric": "15.6 TWh",
+            "timeline": "2023",
+            "claim_type": "Achievement",
+            "specificity_score": 10
+          },
+          {
+            "claim_id": 2,
+            "actor": "Orsted",
+            "claim_text": "The renewable energy generated from offshore wind in 2023 is from certified green electricity.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy certification",
+            "metric": "Certified green electricity",
+            "timeline": "2023",
+            "claim_type": "Certification",
+            "specificity_score": 8
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "timestamp": "2025-10-31T22:17:08.946060",
+      "live_fetch": true
+    },
+    {
+      "agent": "risk_scoring",
+      "output": {
+        "risk_level": "MODERATE",
+        "confidence": 0.5
+      },
+      "risk_level": "MODERATE",
+      "confidence": 0.5,
+      "timestamp": "2025-10-31T22:17:08.950062"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "claim_extraction",
+      "output": {
+        "company": "Orsted",
+        "claims": [
+          {
+            "claim_id": 1,
+            "actor": "Orsted",
+            "claim_text": "Generated 15.6 TWh of renewable energy from offshore wind in 2023.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy generation",
+            "metric": "15.6 TWh",
+            "timeline": "2023",
+            "claim_type": "Achievement",
+            "specificity_score": 10
+          },
+          {
+            "claim_id": 2,
+            "actor": "Orsted",
+            "claim_text": "The renewable energy generated from offshore wind in 2023 is from certified green electricity.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy certification",
+            "metric": "Certified green electricity",
+            "timeline": "2023",
+            "claim_type": "Certification",
+            "specificity_score": 8
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "timestamp": "2025-10-31T22:17:08.946060",
+      "live_fetch": true
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "claim_extraction",
+      "output": {
+        "company": "Orsted",
+        "claims": [
+          {
+            "claim_id": 1,
+            "actor": "Orsted",
+            "claim_text": "Generated 15.6 TWh of renewable energy from offshore wind in 2023.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy generation",
+            "metric": "15.6 TWh",
+            "timeline": "2023",
+            "claim_type": "Achievement",
+            "specificity_score": 10
+          },
+          {
+            "claim_id": 2,
+            "actor": "Orsted",
+            "claim_text": "The renewable energy generated from offshore wind in 2023 is from certified green electricity.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy certification",
+            "metric": "Certified green electricity",
+            "timeline": "2023",
+            "claim_type": "Certification",
+            "specificity_score": 8
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "timestamp": "2025-10-31T22:17:08.946060",
+      "live_fetch": true
+    },
+    {
+      "agent": "risk_scoring",
+      "output": {
+        "risk_level": "MODERATE",
+        "confidence": 0.5
+      },
+      "risk_level": "MODERATE",
+      "confidence": 0.5,
+      "timestamp": "2025-10-31T22:17:08.950062"
+    },
+    {
+      "agent": "confidence_scoring",
+      "confidence": 0.7000000000000001,
+      "timestamp": "2025-10-31T22:17:08.952536"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "claim_extraction",
+      "output": {
+        "company": "Orsted",
+        "claims": [
+          {
+            "claim_id": 1,
+            "actor": "Orsted",
+            "claim_text": "Generated 15.6 TWh of renewable energy from offshore wind in 2023.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy generation",
+            "metric": "15.6 TWh",
+            "timeline": "2023",
+            "claim_type": "Achievement",
+            "specificity_score": 10
+          },
+          {
+            "claim_id": 2,
+            "actor": "Orsted",
+            "claim_text": "The renewable energy generated from offshore wind in 2023 is from certified green electricity.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy certification",
+            "metric": "Certified green electricity",
+            "timeline": "2023",
+            "claim_type": "Certification",
+            "specificity_score": 8
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "timestamp": "2025-10-31T22:17:08.946060",
+      "live_fetch": true
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "claim_extraction",
+      "output": {
+        "company": "Orsted",
+        "claims": [
+          {
+            "claim_id": 1,
+            "actor": "Orsted",
+            "claim_text": "Generated 15.6 TWh of renewable energy from offshore wind in 2023.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy generation",
+            "metric": "15.6 TWh",
+            "timeline": "2023",
+            "claim_type": "Achievement",
+            "specificity_score": 10
+          },
+          {
+            "claim_id": 2,
+            "actor": "Orsted",
+            "claim_text": "The renewable energy generated from offshore wind in 2023 is from certified green electricity.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy certification",
+            "metric": "Certified green electricity",
+            "timeline": "2023",
+            "claim_type": "Certification",
+            "specificity_score": 8
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "timestamp": "2025-10-31T22:17:08.946060",
+      "live_fetch": true
+    },
+    {
+      "agent": "risk_scoring",
+      "output": {
+        "risk_level": "MODERATE",
+        "confidence": 0.5
+      },
+      "risk_level": "MODERATE",
+      "confidence": 0.5,
+      "timestamp": "2025-10-31T22:17:08.950062"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "claim_extraction",
+      "output": {
+        "company": "Orsted",
+        "claims": [
+          {
+            "claim_id": 1,
+            "actor": "Orsted",
+            "claim_text": "Generated 15.6 TWh of renewable energy from offshore wind in 2023.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy generation",
+            "metric": "15.6 TWh",
+            "timeline": "2023",
+            "claim_type": "Achievement",
+            "specificity_score": 10
+          },
+          {
+            "claim_id": 2,
+            "actor": "Orsted",
+            "claim_text": "The renewable energy generated from offshore wind in 2023 is from certified green electricity.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy certification",
+            "metric": "Certified green electricity",
+            "timeline": "2023",
+            "claim_type": "Certification",
+            "specificity_score": 8
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "timestamp": "2025-10-31T22:17:08.946060",
+      "live_fetch": true
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "claim_extraction",
+      "output": {
+        "company": "Orsted",
+        "claims": [
+          {
+            "claim_id": 1,
+            "actor": "Orsted",
+            "claim_text": "Generated 15.6 TWh of renewable energy from offshore wind in 2023.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy generation",
+            "metric": "15.6 TWh",
+            "timeline": "2023",
+            "claim_type": "Achievement",
+            "specificity_score": 10
+          },
+          {
+            "claim_id": 2,
+            "actor": "Orsted",
+            "claim_text": "The renewable energy generated from offshore wind in 2023 is from certified green electricity.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy certification",
+            "metric": "Certified green electricity",
+            "timeline": "2023",
+            "claim_type": "Certification",
+            "specificity_score": 8
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "timestamp": "2025-10-31T22:17:08.946060",
+      "live_fetch": true
+    },
+    {
+      "agent": "risk_scoring",
+      "output": {
+        "risk_level": "MODERATE",
+        "confidence": 0.5
+      },
+      "risk_level": "MODERATE",
+      "confidence": 0.5,
+      "timestamp": "2025-10-31T22:17:08.950062"
+    },
+    {
+      "agent": "confidence_scoring",
+      "confidence": 0.7000000000000001,
+      "timestamp": "2025-10-31T22:17:08.952536"
+    },
+    {
+      "agent": "verdict_generation",
+      "output": {
+        "company": "Orsted",
+        "claim": "Orsted generated 15.6 TWh of renewable energy from offshore wind in 2023 with certified green electricity",
+        "risk_level": "MODERATE",
+        "confidence": 0.7000000000000001,
+        "evidence_count": 0,
+        "timestamp": "2025-10-31T22:17:08.954535",
+        "final_confidence": 0.7000000000000001
+      },
+      "confidence": 0.7000000000000001,
+      "timestamp": "2025-10-31T22:17:08.956534",
+      "intelligence_sources": []
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "claim_extraction",
+      "output": {
+        "company": "Orsted",
+        "claims": [
+          {
+            "claim_id": 1,
+            "actor": "Orsted",
+            "claim_text": "Generated 15.6 TWh of renewable energy from offshore wind in 2023.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy generation",
+            "metric": "15.6 TWh",
+            "timeline": "2023",
+            "claim_type": "Achievement",
+            "specificity_score": 10
+          },
+          {
+            "claim_id": 2,
+            "actor": "Orsted",
+            "claim_text": "The renewable energy generated from offshore wind in 2023 is from certified green electricity.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy certification",
+            "metric": "Certified green electricity",
+            "timeline": "2023",
+            "claim_type": "Certification",
+            "specificity_score": 8
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "timestamp": "2025-10-31T22:17:08.946060",
+      "live_fetch": true
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "claim_extraction",
+      "output": {
+        "company": "Orsted",
+        "claims": [
+          {
+            "claim_id": 1,
+            "actor": "Orsted",
+            "claim_text": "Generated 15.6 TWh of renewable energy from offshore wind in 2023.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy generation",
+            "metric": "15.6 TWh",
+            "timeline": "2023",
+            "claim_type": "Achievement",
+            "specificity_score": 10
+          },
+          {
+            "claim_id": 2,
+            "actor": "Orsted",
+            "claim_text": "The renewable energy generated from offshore wind in 2023 is from certified green electricity.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy certification",
+            "metric": "Certified green electricity",
+            "timeline": "2023",
+            "claim_type": "Certification",
+            "specificity_score": 8
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "timestamp": "2025-10-31T22:17:08.946060",
+      "live_fetch": true
+    },
+    {
+      "agent": "risk_scoring",
+      "output": {
+        "risk_level": "MODERATE",
+        "confidence": 0.5
+      },
+      "risk_level": "MODERATE",
+      "confidence": 0.5,
+      "timestamp": "2025-10-31T22:17:08.950062"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "claim_extraction",
+      "output": {
+        "company": "Orsted",
+        "claims": [
+          {
+            "claim_id": 1,
+            "actor": "Orsted",
+            "claim_text": "Generated 15.6 TWh of renewable energy from offshore wind in 2023.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy generation",
+            "metric": "15.6 TWh",
+            "timeline": "2023",
+            "claim_type": "Achievement",
+            "specificity_score": 10
+          },
+          {
+            "claim_id": 2,
+            "actor": "Orsted",
+            "claim_text": "The renewable energy generated from offshore wind in 2023 is from certified green electricity.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy certification",
+            "metric": "Certified green electricity",
+            "timeline": "2023",
+            "claim_type": "Certification",
+            "specificity_score": 8
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "timestamp": "2025-10-31T22:17:08.946060",
+      "live_fetch": true
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "claim_extraction",
+      "output": {
+        "company": "Orsted",
+        "claims": [
+          {
+            "claim_id": 1,
+            "actor": "Orsted",
+            "claim_text": "Generated 15.6 TWh of renewable energy from offshore wind in 2023.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy generation",
+            "metric": "15.6 TWh",
+            "timeline": "2023",
+            "claim_type": "Achievement",
+            "specificity_score": 10
+          },
+          {
+            "claim_id": 2,
+            "actor": "Orsted",
+            "claim_text": "The renewable energy generated from offshore wind in 2023 is from certified green electricity.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy certification",
+            "metric": "Certified green electricity",
+            "timeline": "2023",
+            "claim_type": "Certification",
+            "specificity_score": 8
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "timestamp": "2025-10-31T22:17:08.946060",
+      "live_fetch": true
+    },
+    {
+      "agent": "risk_scoring",
+      "output": {
+        "risk_level": "MODERATE",
+        "confidence": 0.5
+      },
+      "risk_level": "MODERATE",
+      "confidence": 0.5,
+      "timestamp": "2025-10-31T22:17:08.950062"
+    },
+    {
+      "agent": "confidence_scoring",
+      "confidence": 0.7000000000000001,
+      "timestamp": "2025-10-31T22:17:08.952536"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "claim_extraction",
+      "output": {
+        "company": "Orsted",
+        "claims": [
+          {
+            "claim_id": 1,
+            "actor": "Orsted",
+            "claim_text": "Generated 15.6 TWh of renewable energy from offshore wind in 2023.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy generation",
+            "metric": "15.6 TWh",
+            "timeline": "2023",
+            "claim_type": "Achievement",
+            "specificity_score": 10
+          },
+          {
+            "claim_id": 2,
+            "actor": "Orsted",
+            "claim_text": "The renewable energy generated from offshore wind in 2023 is from certified green electricity.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy certification",
+            "metric": "Certified green electricity",
+            "timeline": "2023",
+            "claim_type": "Certification",
+            "specificity_score": 8
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "timestamp": "2025-10-31T22:17:08.946060",
+      "live_fetch": true
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "claim_extraction",
+      "output": {
+        "company": "Orsted",
+        "claims": [
+          {
+            "claim_id": 1,
+            "actor": "Orsted",
+            "claim_text": "Generated 15.6 TWh of renewable energy from offshore wind in 2023.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy generation",
+            "metric": "15.6 TWh",
+            "timeline": "2023",
+            "claim_type": "Achievement",
+            "specificity_score": 10
+          },
+          {
+            "claim_id": 2,
+            "actor": "Orsted",
+            "claim_text": "The renewable energy generated from offshore wind in 2023 is from certified green electricity.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy certification",
+            "metric": "Certified green electricity",
+            "timeline": "2023",
+            "claim_type": "Certification",
+            "specificity_score": 8
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "timestamp": "2025-10-31T22:17:08.946060",
+      "live_fetch": true
+    },
+    {
+      "agent": "risk_scoring",
+      "output": {
+        "risk_level": "MODERATE",
+        "confidence": 0.5
+      },
+      "risk_level": "MODERATE",
+      "confidence": 0.5,
+      "timestamp": "2025-10-31T22:17:08.950062"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "claim_extraction",
+      "output": {
+        "company": "Orsted",
+        "claims": [
+          {
+            "claim_id": 1,
+            "actor": "Orsted",
+            "claim_text": "Generated 15.6 TWh of renewable energy from offshore wind in 2023.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy generation",
+            "metric": "15.6 TWh",
+            "timeline": "2023",
+            "claim_type": "Achievement",
+            "specificity_score": 10
+          },
+          {
+            "claim_id": 2,
+            "actor": "Orsted",
+            "claim_text": "The renewable energy generated from offshore wind in 2023 is from certified green electricity.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy certification",
+            "metric": "Certified green electricity",
+            "timeline": "2023",
+            "claim_type": "Certification",
+            "specificity_score": 8
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "timestamp": "2025-10-31T22:17:08.946060",
+      "live_fetch": true
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "supervisor",
+      "action": "complexity_assessment",
+      "complexity_score": 0.1,
+      "reasoning": "Assessed claim complexity: 0.10"
+    },
+    {
+      "agent": "claim_extraction",
+      "output": {
+        "company": "Orsted",
+        "claims": [
+          {
+            "claim_id": 1,
+            "actor": "Orsted",
+            "claim_text": "Generated 15.6 TWh of renewable energy from offshore wind in 2023.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy generation",
+            "metric": "15.6 TWh",
+            "timeline": "2023",
+            "claim_type": "Achievement",
+            "specificity_score": 10
+          },
+          {
+            "claim_id": 2,
+            "actor": "Orsted",
+            "claim_text": "The renewable energy generated from offshore wind in 2023 is from certified green electricity.",
+            "category": "Environmental",
+            "subcategory": "Renewable energy certification",
+            "metric": "Certified green electricity",
+            "timeline": "2023",
+            "claim_type": "Certification",
+            "specificity_score": 8
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "timestamp": "2025-10-31T22:17:08.946060",
+      "live_fetch": true
+    },
+    {
+      "agent": "risk_scoring",
+      "output": {
+        "risk_level": "MODERATE",
+        "confidence": 0.5
+      },
+      "risk_level": "MODERATE",
+      "confidence": 0.5,
+      "timestamp": "2025-10-31T22:17:08.950062"
+    },
+    {
+      "agent": "confidence_scoring",
+      "confidence": 0.7000000000000001,
+      "timestamp": "2025-10-31T22:17:08.952536"
+    },
+    {
+      "agent": "verdict_generation",
+      "output": {
+        "company": "Orsted",
+        "claim": "Orsted generated 15.6 TWh of renewable energy from offshore wind in 2023 with certified green electricity",
+        "risk_level": "MODERATE",
+        "confidence": 0.7000000000000001,
+        "evidence_count": 0,
+        "timestamp": "2025-10-31T22:17:08.954535",
+        "final_confidence": 0.7000000000000001
+      },
+      "confidence": 0.7000000000000001,
+      "timestamp": "2025-10-31T22:17:08.956534",
+      "intelligence_sources": []
+    },
+    {
+      "agent": "professional_report_generation",
+      "confidence": 0.95,
+      "timestamp": "2025-10-31T22:17:08.959536"
+    }
+  ],
+  "iteration_count": 0,
+  "needs_revision": false,
+  "final_verdict": {
+    "company": "Orsted",
+    "claim": "Orsted generated 15.6 TWh of renewable energy from offshore wind in 2023 with certified green electricity",
+    "risk_level": "MODERATE",
+    "confidence": 0.7000000000000001,
+    "evidence_count": 0,
+    "timestamp": "2025-10-31T22:17:08.954535",
+    "final_confidence": 0.7000000000000001
+  },
+  "report": "\n================================================================================\nESG GREENWASHING RISK ASSESSMENT REPORT\n================================================================================\n\nREPORT METADATA\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\nReport ID:           20251031-221708-ORST\nAnalysis Date:       October 31, 2025 at 22:17:08 UTC\nReport Version:      1.0\nMethodology:         Hybrid Multi-Agent Analysis with LangGraph Orchestration\nAnalysis Workflow:   \n\n================================================================================\nEXECUTIVE SUMMARY\n================================================================================\n\nCompany Information\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\nCompany Name:        Orsted\nIndustry Sector:     Energy\nClaim Analyzed:      Orsted generated 15.6 TWh of renewable energy from offshore wind in 2023 with certified green electricity\n\nOverall Assessment\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\nESG Risk Rating:     BBB (MODERATE RISK)\nConfidence Score:    70.0%\nEvidence Quality:    Limited\nData Sources:        0 verified sources\nAgent Performance:   5/5 agents successful (100%)\n\nRISK RATING SCALE (MSCI-Style)\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\nAAA - AA  : Low Risk (Best-in-class ESG performance)\nA - BBB   : Moderate Risk (Industry average ESG performance)\nBB - CCC  : High Risk (Significant ESG concerns)\n\n================================================================================\nKEY FINDINGS\n================================================================================\n\n\u26a1 MODERATE GREENWASHING RISK IDENTIFIED\n  \u2022 Claim partially supported by available evidence\n  \u2022 Some contradictions or ambiguities detected\n  \u2022 Mixed signals from historical performance\n  \u2022 Recommended Action: Additional verification and monitoring\n\n\u26a1 MODERATE CONFIDENCE ASSESSMENT\n  \u2022 Adequate evidence but some information gaps identified\n  \u2022 Partial agent consensus with minor disagreements\n  \u2022 Moderate uncertainty in final assessment\n\n\u26a0 LIMITED EVIDENCE AVAILABILITY\n  \u2022 Only 0 sources available\n  \u2022 Assessment reliability may be affected\n\n================================================================================\nAGENT ANALYSIS BREAKDOWN\n================================================================================\n\nAgent Execution Summary:\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\nAgent Name                          | Status   | Confidence | Runs \n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\nClaim Extraction                    | SUCCESS  | 80.0%      | 16   \nConfidence Scoring                  | SUCCESS  | 70.0%      | 4    \nRisk Scoring                        | SUCCESS  | 50.0%      | 8    \nSupervisor                          | SUCCESS  | N/A        | 32   \nVerdict Generation                  | SUCCESS  | 70.0%      | 2    \n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n================================================================================\nDETAILED ANALYSIS\n================================================================================\n\nENVIRONMENTAL DIMENSION\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\nSOCIAL DIMENSION\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\nGOVERNANCE DIMENSION\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n  Risk Assessment:         MODERATE risk classification\n\n\n================================================================================\nEVIDENCE SUMMARY\n================================================================================\n\nNo evidence sources available for this analysis.\nThis may indicate data collection issues or claim verification challenges.\n\n================================================================================\nMETHODOLOGY & DATA QUALITY\n================================================================================\n\nAnalysis Framework:\n  \u2022 Multi-Agent AI System with 5 specialized agents\n  \u2022 Industry-adjusted risk thresholds (MSCI-based)\n  \u2022 Real-time data integration from 0 sources\n  \u2022 Consensus-based validation through agent debate mechanism\n\nData Quality Assurance:\n  \u2022 Successful Agents:  5/5 (100%)\n  \u2022 Confidence Level:   70.0%\n  \u2022 Evidence Coverage:  0 independent sources\n  \u2022 Temporal Relevance: Real-time monitoring (last 24-48 hours)\n\nAnalysis Workflow: \n  \u2022 Complexity Assessment \u2192 Dynamic Routing\n  \u2022 Claim Extraction \u2192 Evidence Retrieval \u2192 Contradiction Analysis\n  \u2022 Historical Pattern Analysis \u2192 Industry Peer Comparison\n  \u2022 Risk Scoring with Industry Thresholds \u2192 Final Verdict\n\n================================================================================\nREGULATORY COMPLIANCE & STANDARDS\n================================================================================\n\nThis report aligns with the following ESG frameworks:\n  \u2713 MSCI ESG Ratings Methodology\n  \u2713 Sustainalytics ESG Risk Ratings\n  \u2713 GRI (Global Reporting Initiative) Standards\n  \u2713 SASB (Sustainability Accounting Standards Board)\n  \u2713 TCFD (Task Force on Climate-related Financial Disclosures)\n\n================================================================================\nDISCLAIMERS & LIMITATIONS\n================================================================================\n\nScope: This analysis is based on publicly available information and real-time\n       data sources. It reflects conditions as of the analysis date.\n\nLimitations:\n  \u2022 Analysis quality depends on data availability and source reliability\n  \u2022 ESG claims evolve over time; regular monitoring recommended\n  \u2022 Industry comparisons based on available peer data\n  \u2022 AI-generated insights require human expert validation for investment decisions\n\nForward-Looking Statements:\n  This report may contain assessments based on forward-looking statements.\n  Actual ESG performance may differ materially from analyzed claims.\n\n================================================================================\nCONTACT & SUPPORT\n================================================================================\n\nFor inquiries regarding this report:\n  System:     ESG Greenwashing Detection Platform v3.0\n  Version:    1.0\n  Generated:  2025-10-31 22:17:08 UTC\n\n================================================================================\nEND OF REPORT\n================================================================================\n\nThis report is confidential and intended for the recipient's internal use only.\nRedistribution requires explicit authorization.\n"
+}
